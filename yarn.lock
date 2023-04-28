@@ -4664,8 +4664,9 @@
     "lodash.clonedeep" "^4.5.0"
     "lodash.isequal" "^4.5.0"
 
-"quill@git://github.com/miketalbot/quill.git#daa2b0a":
-  "resolved" "git+ssh://git@github.com/miketalbot/quill.git#012bae1d0f80dda7fd91649dadfecec8649a58e7"
+"quill@git://github.com/miketalbot/quill.git#daa2b0a583132b99893140ce88124952edba77f5":
+  "integrity" "sha512-KhmopysN1+sRGA7GEeEcdJiWGJTgQICkVGFT7Sj7Fkip/t8meFQspP/nkYt7SEANWdfGx+XdbjoyrOZ+7rLphg=="
+  "resolved" "git+ssh://git@github.com/miketalbot/quill.git#daa2b0a583132b99893140ce88124952edba77f5"
   "version" "2.0.0-dev.4"
   dependencies:
     "eventemitter3" "^4.0.0"
