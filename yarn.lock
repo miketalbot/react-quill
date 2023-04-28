@@ -4664,7 +4664,7 @@
     "lodash.clonedeep" "^4.5.0"
     "lodash.isequal" "^4.5.0"
 
-"quill@git://github.com/miketalbot/quill":
+"quill@git://github.com/miketalbot/quill.git#daa2b0a":
   "resolved" "git+ssh://git@github.com/miketalbot/quill.git#012bae1d0f80dda7fd91649dadfecec8649a58e7"
   "version" "2.0.0-dev.4"
   dependencies:

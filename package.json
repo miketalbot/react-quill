@@ -38,7 +38,7 @@
   "dependencies": {
     "@types/quill": "^1.3.10",
     "lodash": "^4.17.4",
-    "quill": "git://github.com/miketalbot/quill"
+    "quill": "git://github.com/miketalbot/quill.git#daa2b0a"
   },
   "peerDependencies": {
     "react": "^16 || ^17 || ^18",
